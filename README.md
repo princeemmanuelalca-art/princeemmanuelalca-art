@@ -1,35 +1,52 @@
 # Hi there, I'm Prince! 👋
 
-### 🤖 Aspiring AI & Automation Developer | Mechatronics Enthusiast
+### 🤖 AI Engineer | Specialized in Autonomous Agents, RAG & LLM Infrastructure
 
-Welcome to my GitHub! I am a developer passionate about bridging the gap between software and hardware. I specialize in building automation workflows, working with LLMs, and engineering robust backend systems. 
-
-When I'm not writing code, I'm likely experimenting with circuits, troubleshooting PLCs, or optimizing productivity systems.
+I am a developer focused on building intelligent, self-improving systems and robust AI infrastructure. My work ranges from architecting multi-agent pipelines and private knowledge bases to developing secure, autonomous coding environments and custom Model Context Protocol (MCP) servers.
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Technical Expertise
 
-**AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**AI & Language Model Orchestration**
+* [cite_start]**Agentic Frameworks:** LangGraph, autonomous self-improving loops, and multi-agent pipeline design with deterministic routing[cite: 14, 17].
+* [cite_start]**Structured Intelligence:** Structured output parsing via Pydantic and type-safe inter-agent communication[cite: 11, 18].
+* [cite_start]**Retrieval-Augmented Generation (RAG):** Semantic search with ChromaDB, vector embeddings (sentence-transformers), and private knowledge base ingestion (PDF/TXT)[cite: 9, 24].
+* [cite_start]**APIs & LLM Providers:** Gemini API, OpenAI API, Groq (LLaMA 3.3 70B), and Anthropic Claude API[cite: 11, 23, 31].
 
-**Cloud, DevOps & Backend**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Backend, DevOps & Tooling**
+* [cite_start]**Secure Execution:** E2B cloud sandboxes for untrusted code execution and AST-based code security layers for sanitizing LLM output[cite: 20].
+* **Automation & CI/CD:** GitHub Actions for automated PR reviews and PyGithub for repository interaction.
+* [cite_start]**Protocols & Interfaces:** Model Context Protocol (MCP) server implementation and Gradio/Flask for interactive AI UIs[cite: 8, 26, 31].
+* [cite_start]**Deployment:** Containerization with Docker and live hosting on HuggingFace Spaces[cite: 23, 26].
 
-**Tools & Workflow**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+---
+
+### 🚀 Featured Projects
+
+#### 1. [Archon: The Intelligent Architect](https://huggingface.co/spaces/Prince-Alca-Archon)
+[cite_start]A full-stack RAG application enabling private document ingestion and semantic search[cite: 21, 24].
+* [cite_start]Implemented multi-session conversation memory and semantic search powered by **ChromaDB**[cite: 24, 25].
+* [cite_start]Built as the sole developer across Python, Flask, and JavaScript, then containerized with **Docker**[cite: 26].
+
+#### 2. [Multi-Agent Sales Analysis System](https://github.com/princeemmanuelalca-art)
+[cite_start]A sophisticated 5-agent **LangGraph** system for automated data science workflows[cite: 14, 17].
+* [cite_start]**Pipeline:** Coordinates an Orchestrator, Data Validator, Analyst, Code Executor, and Report Writer[cite: 17].
+* [cite_start]Features deterministic conditional routing and automated **Matplotlib** visualization generation[cite: 17, 20].
+
+#### 3. [Self-Improving Coding Agent](https://github.com/princeemmanuelalca-art)
+An autonomous agent that writes, executes, and debugs Python code in real-time.
+* Implemented a **reflection loop** where the agent analyzes execution errors to rewrite its own code.
+* Secured using **E2B cloud sandboxes** to run untrusted generated code safely.
+
+#### 4. [AI Code Review Bot](https://github.com/princeemmanuelalca-art)
+An automated system providing professional-grade analysis for GitHub Pull Requests.
+* Utilizes **GitHub Actions** and **PyGithub** to trigger comprehensive bug and security checks on every PR.
+* Employs smart chunking to handle large diffs within LLM token limits.
+
+#### 5. [Custom MCP Server (Python + Groq)](https://github.com/princeemmanuelalca-art)
+[cite_start]A protocol-compliant server built to extend LLM capabilities via the **Model Context Protocol**[cite: 31].
+* [cite_start]Exposes tools for live web search and URL summarization directly to MCP-compatible clients like Claude Desktop[cite: 31].
 
 ---
 
@@ -42,7 +59,7 @@ When I'm not writing code, I'm likely experimenting with circuits, troubleshooti
 
 ---
 
-### 📫 Let's Connect!
+### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-emmanuel-alca-3016a938a/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18XZeLP5VC/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel.alca1210?igsh=OXh2bXQ0end5Y3Ri)
