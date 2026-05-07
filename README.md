@@ -9,30 +9,30 @@ I am a developer focused on building intelligent, self-improving systems and rob
 ### 🛠️ Technical Expertise
 
 **AI & Language Model Orchestration**
-* [cite_start]**Agentic Frameworks:** LangGraph, autonomous self-improving loops, and multi-agent pipeline design with deterministic routing[cite: 14, 17].
-* [cite_start]**Structured Intelligence:** Structured output parsing via Pydantic and type-safe inter-agent communication[cite: 11, 18].
-* [cite_start]**Retrieval-Augmented Generation (RAG):** Semantic search with ChromaDB, vector embeddings (sentence-transformers), and private knowledge base ingestion (PDF/TXT)[cite: 9, 24].
-* [cite_start]**APIs & LLM Providers:** Gemini API, OpenAI API, Groq (LLaMA 3.3 70B), and Anthropic Claude API[cite: 11, 23, 31].
+* **Agentic Frameworks:** LangGraph, autonomous self-improving loops, and multi-agent pipeline design with deterministic routing.
+* **Structured Intelligence:** Structured output parsing via Pydantic and type-safe inter-agent communication.
+* **Retrieval-Augmented Generation (RAG):** Semantic search with ChromaDB, vector embeddings (sentence-transformers), and private knowledge base ingestion (PDF/TXT).
+* **APIs & LLM Providers:** Gemini API, OpenAI API, Groq (LLaMA 3.3 70B), and Anthropic Claude API.
 
 **Backend, DevOps & Tooling**
-* [cite_start]**Secure Execution:** E2B cloud sandboxes for untrusted code execution and AST-based code security layers for sanitizing LLM output[cite: 20].
+* **Secure Execution:** E2B cloud sandboxes for untrusted code execution and AST-based code security layers for sanitizing LLM output.
 * **Automation & CI/CD:** GitHub Actions for automated PR reviews and PyGithub for repository interaction.
-* [cite_start]**Protocols & Interfaces:** Model Context Protocol (MCP) server implementation and Gradio/Flask for interactive AI UIs[cite: 8, 26, 31].
-* [cite_start]**Deployment:** Containerization with Docker and live hosting on HuggingFace Spaces[cite: 23, 26].
+* **Protocols & Interfaces:** Model Context Protocol (MCP) server implementation and Gradio/Flask for interactive AI UIs.
+* **Deployment:** Containerization with Docker and live hosting on HuggingFace Spaces.
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 1. [Archon: The Intelligent Architect](https://huggingface.co/spaces/Prince-Alca-Archon)
-[cite_start]A full-stack RAG application enabling private document ingestion and semantic search[cite: 21, 24].
-* [cite_start]Implemented multi-session conversation memory and semantic search powered by **ChromaDB**[cite: 24, 25].
-* [cite_start]Built as the sole developer across Python, Flask, and JavaScript, then containerized with **Docker**[cite: 26].
+A full-stack RAG application enabling private document ingestion and semantic search.
+* Implemented multi-session conversation memory and semantic search powered by **ChromaDB**.
+* Built as the sole developer across Python, Flask, and JavaScript, then containerized with **Docker**.
 
 #### 2. [Multi-Agent Sales Analysis System](https://github.com/princeemmanuelalca-art)
-[cite_start]A sophisticated 5-agent **LangGraph** system for automated data science workflows[cite: 14, 17].
-* [cite_start]**Pipeline:** Coordinates an Orchestrator, Data Validator, Analyst, Code Executor, and Report Writer[cite: 17].
-* [cite_start]Features deterministic conditional routing and automated **Matplotlib** visualization generation[cite: 17, 20].
+A sophisticated 5-agent **LangGraph** system for automated data science workflows.
+* **Pipeline:** Coordinates an Orchestrator, Data Validator, Analyst, Code Executor, and Report Writer.
+* Features deterministic conditional routing and automated **Matplotlib** visualization generation.
 
 #### 3. [Self-Improving Coding Agent](https://github.com/princeemmanuelalca-art)
 An autonomous agent that writes, executes, and debugs Python code in real-time.
@@ -45,8 +45,8 @@ An automated system providing professional-grade analysis for GitHub Pull Reques
 * Employs smart chunking to handle large diffs within LLM token limits.
 
 #### 5. [Custom MCP Server (Python + Groq)](https://github.com/princeemmanuelalca-art)
-[cite_start]A protocol-compliant server built to extend LLM capabilities via the **Model Context Protocol**[cite: 31].
-* [cite_start]Exposes tools for live web search and URL summarization directly to MCP-compatible clients like Claude Desktop[cite: 31].
+A protocol-compliant server built to extend LLM capabilities via the **Model Context Protocol**.
+* Exposes tools for live web search and URL summarization directly to MCP-compatible clients like Claude Desktop.
 
 ---
 
