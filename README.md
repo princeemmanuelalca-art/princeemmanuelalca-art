@@ -1,12 +1,12 @@
 # Hi there, I'm Prince! 👋
 
-### 🤖 AI Engineer | Specialized in Autonomous Agents, RAG & LLM Infrastructure
+###  AI Engineer | Specialized in Autonomous Agents, RAG & LLM Infrastructure
 
 I build intelligent, self-improving systems and robust AI infrastructure — from multi-agent pipelines and private knowledge bases to secure autonomous coding environments and custom Model Context Protocol (MCP) servers.
 
 ---
 
-### 🔗 Socials
+###  Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-emmanuel-alca-3016a938a/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18XZeLP5VC/)
@@ -15,7 +15,7 @@ I build intelligent, self-improving systems and robust AI infrastructure — fro
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -53,7 +53,7 @@ I build intelligent, self-improving systems and robust AI infrastructure — fro
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 1. [Archon: The Intelligent Architect](https://huggingface.co/spaces/Prince-Alca-Archon)
 A full-stack RAG application enabling private document ingestion and semantic search.
@@ -83,7 +83,7 @@ A protocol-compliant server extending LLM capabilities via **Model Context Proto
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=princeemmanuelalca-art&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
